@@ -54,10 +54,11 @@ python Deploy/deploy.py
 ## C++ API
 
 <details>
-<summary>Requiremens</summary>
+<summary>Requirements</summary>
 
 - Libtorch
 - InsightToolkit-5.4rc01
+- Cmake(>=3.8)
 
 ```shell
 cd FinalProject_C && makedir build
