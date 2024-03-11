@@ -1,6 +1,7 @@
 __pycache__
 outputs/
 outputs*/
+build/
 *.[log]
 *.out
 .vscode
