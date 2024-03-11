@@ -1,0 +1,7 @@
+torch==1.13.0
+torchvision==0.14.0
+monai==1.0.0
+opencv-python==4.2.0.34
+sklearn==0.24.2
+lmdb
+scipy
